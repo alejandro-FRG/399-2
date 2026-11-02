@@ -1,0 +1,12 @@
+Pon aquí las 7 fotos con estos nombres exactos (en minúsculas y .jpg):
+
+portada.jpg   -> foto grande del inicio (vertical, uñas en primer plano)
+diseno1.jpg   -> Nude (también sale en Opiniones)
+diseno2.jpg   -> Francesa (también sale en Servicios)
+diseno3.jpg   -> Burdeos
+diseno4.jpg   -> Cromo
+diseno5.jpg   -> Puntos (también sale en Pide tu cita)
+diseno6.jpg   -> Lavanda
+
+Si falta alguna, esa zona se ve como un bloque de color. Pesa menos de 400 KB cada una.
+Puedes borrar este archivo cuando hayas subido las fotos.
